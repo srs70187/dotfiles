@@ -1,0 +1,7 @@
+GCE_AUTH_FILE="stack-badges-87c0d7eebd4f.json"
+GCE_DEFAULT_PROJECT_ID="stack-badges"
+GCE_DEFAULT_ZONE="us-west1-a"
+#GCS_CLIENT_ID = "mykey",
+#GCS_CLIENT_SECRET = "mysecretkey",
+GCS_DEFAULT_BUCKET = "stack-exchange-badges",
+GCS_AUTH_FILE = "stack-badges-87c0d7eebd4f.json"
